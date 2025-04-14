@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+//This is Authcontroller committ
 use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
